@@ -12,6 +12,9 @@ Proof: These are the rules I tune to have my vibe coding sessions humming. Tuned
 
 ## Planning to add
 - instruction sets for docs (what docs, content, and format)
+- role-based instruction sets:
+  - data science for growth engineers (I need to figure out why dropoffs are happening at X spot in my flow, so I can make the changes to improve it)
+
 
 ## AI vibe coding workflows
 - one shot
