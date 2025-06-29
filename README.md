@@ -1,4 +1,4 @@
-# vibe-coding-instruction-sets (governor-module)
+# vibe-coding-instruction-sets (governor-module) / ai-governor
 
 A custom instruction set for your robot to help keep it humming and not go rogue a là Murderbot.
 
