@@ -15,6 +15,7 @@ Proof: These are the rules I tune to have my vibe coding sessions humming. Tuned
 - role-based instruction sets:
   - data science for growth engineers (I need to figure out why dropoffs are happening at X spot in my flow, so I can make the changes to improve it)
 - rule for "AI-assisted" doc reviews. It's really really great.
+- rules to enhance agents ability to "see" and self-diagnose errors. Maybe even some basic smoke and health-check scripts that can run against any app, any server...
 
 ## AI vibe coding workflows
 - one shot
