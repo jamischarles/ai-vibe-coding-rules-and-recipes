@@ -1,7 +1,8 @@
 # vibe-coding-instruction-sets
-A collection of good prompts and instructions and recipes that you can point your AI agent at instead of having to copy/paste it.
 
-Think of it as a custom instruction set for your robot to help keep it humming and not go rogue a là Murderbot.
+A custom instruction set for your robot to help keep it humming and not go rogue a là Murderbot.
+
+Simply stated it's a collection of good prompts and instructions and recipes that you can point your AI agent at instead of having to copy/paste it.
 
 And it'll automatically become a dev who follows those methodologies. You can go all-in, or pick & choose.
 
