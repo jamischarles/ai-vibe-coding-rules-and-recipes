@@ -7,6 +7,8 @@ And it'll automatically become a dev who follows those methodologies. You can go
 
 Hypothesis: This should result in DRASTICALLY faster and clearer outcomes (produced code/app) because your ruleset will be tuned for the outcome you desire.
 
+Proof: These are the rules I tune to have my vibe coding sessions humming. Tuned over hundreds of hours of vibe coding real products for real customers.
+
 ## AI vibe coding workflows
 - one shot
 - docs-driven: Create a PRD.md, tasks.md, etc and use that as the primary driver for the AI. Chats frequently become "do X, make sure you update the PRD, tasks, and tests to conform.
