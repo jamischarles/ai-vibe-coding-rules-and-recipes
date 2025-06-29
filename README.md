@@ -1,4 +1,4 @@
-# ai-vibe-coding-rules-and-recipes
+# ai-vibe-coding-custom-instruction-sets
 A collection of good prompts and instructions and recipes that you can point your AI agent at instead of having to copy/paste it.
 
 Think of it as a custom instruction set for your robot to help keep it humming and not go rogue a là Murderbot.
