@@ -1,5 +1,7 @@
 # ai-vibe-coding-rules-and-recipes
-A collection of good prompts and instructions and recipes that you can point your AI agent at instead of having to copy/paste it
+A collection of good prompts and instructions and recipes that you can point your AI agent at instead of having to copy/paste it.
+
+Think of it as an abstraction on top of your agent. So you can give your agent an instruction set ie: "Follow the X method". And it'll automatically become a dev who follows those methodolgois. That's an all-in approach. OR you can pick and choose. Similar to linting rulesets... Linting for AI? 
 
 
 ## AI vibe coding workflows
