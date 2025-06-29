@@ -5,6 +5,7 @@ Think of it as a custom instruction set for your robot to help keep it humming a
 
 And it'll automatically become a dev who follows those methodologies. You can go all-in, or pick & choose.
 
+Hypothesis: This should result in DRASTICALLY faster and clearer outcomes (produced code/app) because your ruleset will be tuned for the outcome you desire.
 
 ## AI vibe coding workflows
 - one shot
